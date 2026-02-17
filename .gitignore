@@ -3,3 +3,7 @@ anaconda_projects
 
 # VS Code extensions
 tempCodeRunnerFile.py
+
+# Ignore NumPy data files
+*.npy
+*.npz

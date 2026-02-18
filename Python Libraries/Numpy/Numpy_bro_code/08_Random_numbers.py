@@ -63,6 +63,6 @@ fruits_random = rng_3.choice(fruits, size = (3,3))
 print(fruit_random, end = "\n\n")
 print(fruits_random)
 
-##
+##Random numbers, random distribution, standard normal distribution, randint etc.. are present in numpy_krish_naik notebook
 
 

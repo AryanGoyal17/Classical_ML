@@ -12,6 +12,12 @@ tempCodeRunnerFile.py
 
 *.csv
 
+#Ignoring png, jpg and jpeg files.
+
+*.jpg
+*.jpeg
+*.png
+
 #Ignoring datasets folder--
 
 Data-Sets/

@@ -8,6 +8,10 @@ tempCodeRunnerFile.py
 *.npy
 *.npz
 
+#Ignoring csv files.
+
+*.csv
+
 #Ignoring datasets folder--
 
 Data-Sets/

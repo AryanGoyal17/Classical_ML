@@ -66,11 +66,11 @@ print(series4, end = "\n\n")
 
 #NOTE::(IMPORTANT)
 
-# data5 = {1 : "Pikachu", 2 : "Bulbasaur", 3 : "CharLizard", 4 : "PsyDuck"}
+data5 = {1 : "Pikachu", 2 : "Bulbasaur", 3 : "CharLizard", 4 : "PsyDuck"}
 
-# series5 = pd.Series(data5, index = ["Pokemon1", "Pokemon2"])
+series5 = pd.Series(data5, index = ["Pokemon1", "Pokemon2"])
 
-# print(series5, end = "\n\n")
+print(series5, end = "\n\n")
 
 ##The code above doesnt give output as intended.
 ##For dictionaries, The keys provided with dictionary are used as ultimate truth in pandas
